@@ -9,6 +9,7 @@ GLPI (Gestionnaire Libre de Parc Informatique) is an open-source IT Asset Manage
 ## Setup
 
 - Clone the repository;
+- Create .env file and configurate db-config;
 - Setup MariaDB and PHP/Apache (`docker compose up -d`);
 - Access the GLPI Installation Page: Open a web browser and go to http://localhost
 - Follow the Installation Wizard
