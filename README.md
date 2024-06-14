@@ -1,5 +1,6 @@
 # GLPI System
 
+GLPI (Gestionnaire Libre de Parc Informatique) is an open-source IT Asset Management (ITAM) and service management software. It assists organizations in managing their IT infrastructure effectively
 
 ## Requisites
 
